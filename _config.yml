@@ -59,11 +59,11 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
+  - name: Drogas
     url: https://github.com/fluany/fluany
-  - name: vim-frontend
+  - name: Alcohol
     url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
+  - name: NEGROS
     url: https://github.com/victorvoid/generator-capybara 
 
 # exclude my node related stuff
